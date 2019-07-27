@@ -1,0 +1,20 @@
+.auth h3 {
+    text-align: center;
+}
+form {
+    height: 100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+
+button {
+    height: 40px;
+    width: 100px;
+    color: #fff;
+    background-color: purple;
+    border-color: purple;
+    margin-top: 10px;
+}
+
